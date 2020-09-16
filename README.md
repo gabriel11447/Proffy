@@ -7,7 +7,7 @@
 
 <div align="center">
   <sub>The NLW #2 project. Built with ❤︎ by
-    <a href="https://github.com/gabriel11447">Gabriel de Carvalho</a> and
+    <a href="https://github.com/gabriel11447">Gabriel de Carvalho</a>
   </sub>
 </div>
 
